@@ -4,7 +4,8 @@
   "description": "website for blue circle cafe",
   "main": "index.js",
   "scripts": {
-    "test": "http-server"
+    "test": "node index.js",
+    "server": "http-server"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/amp5208/blue-circle/issues"
   },
-  "homepage": "https://github.com/amp5208/blue-circle#readme"
+  "homepage": "https://github.com/amp5208/blue-circle#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "pretty": "^2.0.0"
+  }
 }
