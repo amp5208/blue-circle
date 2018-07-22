@@ -1,4 +1,4 @@
-![coffee](./media/cafe.jpg)
+![coffee](./media/cafe.jpg | width=300)
 # blue-circle
 Coffee website content for Blue Circle
 
