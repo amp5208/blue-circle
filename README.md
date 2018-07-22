@@ -1,4 +1,4 @@
-![rumble](./media/cafe.jpg)
+![coffee](./media/cafe.jpg)
 # blue-circle
 Coffee website content for Blue Circle
 
