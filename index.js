@@ -8,7 +8,7 @@ var fs = require('fs');
  */
 function htmlLinter() {
   var html = '';
-  var webpageFile = 'index.html';
+  var webpageFile = './web/index.html';
 
   function getWebData(callback) {
     html = fs.readFileSync(webpageFile).toString();
