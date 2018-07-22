@@ -1,4 +1,5 @@
 <img src="./media/cafe.jpg" width="250" height="250">
+
 # blue-circle
 Coffee website content for Blue Circle
 
