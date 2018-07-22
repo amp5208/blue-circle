@@ -3,7 +3,7 @@
 Coffee website content for Blue Circle
 
 ### Status
-[![Build Status](https://travis-ci.org/apelka/blue-circle.svg)](https://travis-ci.org/apelka/blue-circle)
+[![Build Status](https://travis-ci.org/amp5208/blue-circle.svg)](https://travis-ci.org/amp5208/blue-circle)
 
 ### Local Test / Build
 This system orchestrates build and test using NPM script orchestration.  To install components:
