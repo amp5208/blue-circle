@@ -1,0 +1,13 @@
+dist: xenial
+language: node_js
+node_js:
+  - "4"
+sudo: true
+before_script:
+  - "npm install"
+script:
+  - "npm run test"
+cache:
+  directories:
+    - "node_modules"
+    - "bin"
