@@ -1,0 +1,23 @@
+{
+  "name": "blue-circle",
+  "version": "1.0.0",
+  "description": "website for blue circle cafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amp5208/blue-circle.git"
+  },
+  "keywords": [
+    "blue-circle",
+    "cafe"
+  ],
+  "author": "amp5208",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amp5208/blue-circle/issues"
+  },
+  "homepage": "https://github.com/amp5208/blue-circle#readme"
+}
