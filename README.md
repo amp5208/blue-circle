@@ -6,6 +6,16 @@ Coffee website content for Blue Circle
 ### Status
 [![Build Status](https://travis-ci.org/amp5208/blue-circle.svg)](https://travis-ci.org/amp5208/blue-circle)
 
+### Prerequisites
+This product requires and assumes the use of the following technologies.  Installations for these
+technologies are generally cross-platform and can be installed based on OS-specific installation
+instructions.  Please setup the following:
+
+ - Terraform
+ - AWS Account with keys & AWS CLI
+ - NodeJS & NPM
+ - A Linux or MacOS
+
 ### Local Test / Build
 This system orchestrates build and test using NPM script orchestration.  To install components:
 
