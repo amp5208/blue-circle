@@ -43,5 +43,5 @@ resource "aws_s3_bucket_object" "object" {
   key          = "${replace(element(var.path_to_website, count.index), "./web", "")}"
   content_type = "${lookup(var.mime_types, "html", "text/html")}"
   source       = "${element(var.path_to_website, count.index)}"
-  etag         = "${md5(element(var.path_to_website, count.index))}"
+  etag         = "${md5(file(element(var.path_to_website, count.index)))}"
 }
